@@ -6,7 +6,6 @@ I help founders launch.
 
 Thanks for reading this. You can always contact me directly if you have any feedback at [alex@alexmacgregor.com](mailto:alex@alexmacgregor.com). I look forward to hearing from you.
 
-Great to have you.
 
 Take care,
 Alex
