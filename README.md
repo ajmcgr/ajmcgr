@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I help founders launch in public.
+I help founders launch.
 
 **I also build in public, share numbers, and show the process. Not for optics, but for accountability. I often write and talk about it on my [newsletter](https://newsletter.alexmacgregor.com/), [X](https://x.com/alexmacgregor__) [Instagram](https://isntagram.com/alexmacgregor__), [YouTube](https://youtube.com/@alexmacgregor)  and [LinkedIn](https://www.linkedin.com/in/alexmacgregor2/).**
 
