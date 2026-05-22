@@ -8,8 +8,4 @@ Thanks for reading this. You can always contact me directly if you have any feed
 
 I look forward to hearing from you.
 
-
-
-Take care,
-
-Alex
+— Alex
