@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Alex MacGregor.
+
 I build software, help founders launch & document the process.
 
 I talk about startups, founders, vibe coding, AI tools, distribution, personal branding, and creating leverage.
