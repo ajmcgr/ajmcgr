@@ -4,7 +4,7 @@ My name is Alex MacGregor.
 
 I build software, help founders launch & document the process.
 
-I talk about startups, founders, vibe coding, AI tools, distribution, personal branding, and creating leverage.
+I also talk about startups, founders, vibe coding, AI tools, distribution, personal branding, and creating leverage.
 
 **I often write and talk about it on my [newsletter](https://newsletter.alexmacgregor.com/), [X](https://x.com/alexmacgregor__) [Instagram](https://isntagram.com/alexmacgregor__), [YouTube](https://youtube.com/@alexmacgregor)  and [LinkedIn](https://www.linkedin.com/in/alexmacgregor2/).**
 
