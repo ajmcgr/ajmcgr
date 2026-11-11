@@ -8,6 +8,6 @@ Along the way, I’ve embraced the digital nomad lifestyle, launched multiple so
   
 These days, I build software with AI, help founders launch their products and document the process.
 
-I also talk about startups, founders, vibe coding, AI tools, distribution, personal branding and creating leverage.
-
 I look forward to hearing from you.
+
+— Alex
