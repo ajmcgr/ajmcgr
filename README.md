@@ -1,15 +1,13 @@
-## Hi there 👋
+Hi there 👋
 
-My name is Alex MacGregor.
+My name is Alex.
 
-I build software, help founders launch & document the process.
+I’m originally from the UK, but moved to China over a decade ago to pursue a career in technology. Since then, I’ve lived and worked across Asia, from Hong Kong to Shenzhen to Bangkok, working with some of the world’s biggest technology companies and building startups of my own.
 
-I also talk about startups, founders, vibe coding, AI tools, distribution, personal branding, and creating leverage.
+Along the way, I’ve embraced the digital nomad lifestyle, launched multiple software products, made plenty of mistakes and learned a few things about building businesses on the internet.
+  
+These days, I build software with AI, help founders launch their products and document the process.
 
-**I often write and talk about it on my [newsletter](https://newsletter.alexmacgregor.com/), [X](https://x.com/alexmacgregor__) [Instagram](https://isntagram.com/alexmacgregor__), [YouTube](https://youtube.com/@alexmacgregor)  and [LinkedIn](https://www.linkedin.com/in/alexmacgregor2/).**
-
-Thanks for reading this. You can always contact me directly if you have any feedback at [alex@alexmacgregor.com](mailto:alex@alexmacgregor.com). 
+I also talk about startups, founders, vibe coding, AI tools, distribution, personal branding and creating leverage.
 
 I look forward to hearing from you.
-
-— Alex
